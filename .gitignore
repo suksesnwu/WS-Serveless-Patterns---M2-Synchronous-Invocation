@@ -1,0 +1,7 @@
+# Chatgpt recommendation
+venv/
+__pycache__/
+.aws-sam/
+.sam-logs/
+.DS_Store
+.env
