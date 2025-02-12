@@ -1,0 +1,1 @@
+https://51cj2o9l559q8tg8kq7ngha39f.auth.us-east-1.amazoncognito.com/login?client_id=51cj2o9l559q8tg8kq7ngha39f&response_type=code&redirect_uri=http://localhost
