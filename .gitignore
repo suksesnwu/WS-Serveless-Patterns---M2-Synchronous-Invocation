@@ -5,3 +5,5 @@ __pycache__/
 .sam-logs/
 .DS_Store
 .env
+authenticated.json/
+C:\Users\K. Mokhethi\environment\ws-serverless-patterns\authenticated.json
